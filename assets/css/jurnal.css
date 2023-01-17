@@ -1,0 +1,30 @@
+.wrap {
+    width: 100%;
+}
+
+.top-navbar {
+    position: absolute;
+    width: 100%;
+}
+
+.wrap-content {
+    height: 100vh;
+    display: flex;
+}
+
+.sidebar {
+    background-color: #17B3F6;
+    width: 219.63px;
+    padding-top: 5rem; 
+}
+
+.menu .list-group-item{
+    background-color: #17B3F6 !important;
+    border: 0 !important;
+}
+
+.content {
+    width: 100%;
+    background-color: #f2f2f2;
+    padding-top : 5rem;
+}
